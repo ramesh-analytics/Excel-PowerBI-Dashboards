@@ -1,6 +1,6 @@
 # Excel Sales Performance Dashboard
 
-![Dashboard Screenshot](Sales_Dashboard)
+![Dashboard Screenshot](Sales_Dashboard.png)
 
 ## 📊 Overview
 This Excel Sales Performance Dashboard provides insights into:
